@@ -1,0 +1,75 @@
+.matching_title {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    margin: 0;
+}
+
+.selection_name {
+    margin: 0;
+    padding-bottom: 1rem;
+    font-size: 1.4rem;
+}
+
+.p-card .p-card-title {
+    font-size: 1rem;
+}
+
+.floating-tooltip-2 {
+    width: 175px;
+    height: 80px;
+    position: absolute;
+    display: none;
+    padding: 8px;
+    box-sizing: border-box;
+    font-size: 12px;
+    color: #131722;
+    background-color: rgba(255, 255, 255, 1);
+    text-align: left;
+    z-index: 1000;
+    top: 12px;
+    left: 12px;
+    pointer-events: none;
+    border: 1px solid #999;
+    border-radius: 2px;
+    display: none;
+}
+
+.full-width {
+    width: 100%;
+}
+
+/*.p-button {*/
+/*    padding: 8px 10px;*/
+/*}*/
+/*.p-button-icon {*/
+/*    font-size: 12px;*/
+/*}*/
+/*.p-button .p-button-icon-left {*/
+/*    margin-right: 0.25rem;*/
+/*}*/
+/*.p-button-label {*/
+/*    font-size: 12px;*/
+/*}*/
+
+.graph_container {
+    padding: 1px;
+}
+
+.total_table {
+    border-collapse: collapse;
+}
+.total_table td {
+    min-width: 64px;
+    border: 1px solid #a8a8a8;
+    text-align: center;
+    padding: 8px 8px;
+    font-size: 13px;
+}
+.total_table td.highlighted {
+    border: 2px solid #a00;
+}
+
+.total_volume {
+    margin: 0;
+    padding: 4px 4px;
+}

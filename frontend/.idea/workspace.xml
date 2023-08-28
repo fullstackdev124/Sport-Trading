@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="379ea6d1-f1b2-49fe-97c4-ecb1055316af" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2I5jnRE6OeldDtEvAws8RCv0kUp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.3.5\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Project\sport-trading-graph\public" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Project\sport-trading-graph\data" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="379ea6d1-f1b2-49fe-97c4-ecb1055316af" name="Default Changelist" comment="" />
+      <created>1669478505340</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669478505340</updated>
+      <workItem from="1669478508677" duration="696000" />
+      <workItem from="1669480953682" duration="66343000" />
+      <workItem from="1669763568371" duration="26621000" />
+      <workItem from="1669862313805" duration="4595000" />
+      <workItem from="1669913562523" duration="15236000" />
+      <workItem from="1669947493640" duration="884000" />
+      <workItem from="1670025439215" duration="3965000" />
+      <workItem from="1670111566887" duration="381000" />
+      <workItem from="1670112474767" duration="723000" />
+      <workItem from="1670277518306" duration="101000" />
+      <workItem from="1670416781944" duration="1718000" />
+      <workItem from="1670428187510" duration="1181000" />
+      <workItem from="1670432851164" duration="17081000" />
+      <workItem from="1671116720589" duration="58000" />
+      <workItem from="1671554758010" duration="3335000" />
+      <workItem from="1671630488210" duration="37000" />
+      <workItem from="1672952725170" duration="3875000" />
+      <workItem from="1673034809168" duration="2786000" />
+      <workItem from="1675618706682" duration="882000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="232" y="150" key="#ESLint" timestamp="1669478572711">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="232" y="150" key="#ESLint/0.0.1280.984@0.0.1280.984" timestamp="1669478572711" />
+    <state width="1003" height="163" key="GridCell.Tab.0.bottom" timestamp="1670428310253">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state width="1003" height="163" key="GridCell.Tab.0.bottom/0.0.1024.728@0.0.1024.728" timestamp="1670428310253" />
+    <state width="1003" height="163" key="GridCell.Tab.0.center" timestamp="1670428310252">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state width="1003" height="163" key="GridCell.Tab.0.center/0.0.1024.728@0.0.1024.728" timestamp="1670428310252" />
+    <state width="1003" height="163" key="GridCell.Tab.0.left" timestamp="1670428310252">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state width="1003" height="163" key="GridCell.Tab.0.left/0.0.1024.728@0.0.1024.728" timestamp="1670428310252" />
+    <state width="1003" height="163" key="GridCell.Tab.0.right" timestamp="1670428310252">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state width="1003" height="163" key="GridCell.Tab.0.right/0.0.1024.728@0.0.1024.728" timestamp="1670428310252" />
+    <state x="26" y="13" key="SettingsEditor" timestamp="1670428263877">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="26" y="13" key="SettingsEditor/0.0.1024.728@0.0.1024.728" timestamp="1670428263877" />
+    <state x="141" y="134" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1669482994141" />
+    <state x="361" y="233" width="552" height="524" key="StructurePopup" timestamp="1670522085458">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="289" y="172" width="552" height="388" key="StructurePopup/0.0.1024.728@0.0.1024.728" timestamp="1670428293686" />
+    <state x="361" y="233" width="552" height="524" key="StructurePopup/0.0.1280.984@0.0.1280.984" timestamp="1670522085458" />
+    <state x="296" y="226" width="672" height="677" key="run.anything.popup" timestamp="1669776931747">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="296" y="226" width="672" height="677" key="run.anything.popup/0.0.1280.984@0.0.1280.984" timestamp="1669776931747" />
+    <state x="303" y="211" width="672" height="678" key="search.everywhere.popup" timestamp="1670027934982">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="303" y="211" width="672" height="678" key="search.everywhere.popup/0.0.1280.984@0.0.1280.984" timestamp="1670027934982" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/Graph.js</url>
+          <line>329</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
